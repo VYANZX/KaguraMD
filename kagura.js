@@ -1,5 +1,5 @@
 /*
-Created By @Lexxy Official
+Created By @VYANZ
 Base Ori @DikaArdnt
 Ganti Owner Dll Di Settings.js
 */
