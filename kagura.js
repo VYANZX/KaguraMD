@@ -1,6 +1,6 @@
 /*
 Created By @VYANZ
-Base Ori @DikaArdnt
+Base Ori @Null
 Ganti Owner Dll Di Settings.js
 */
 
